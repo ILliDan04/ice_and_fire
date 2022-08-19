@@ -1,0 +1,5 @@
+export enum STATUSES {
+  PENDING = "PENDING",
+  FULFILLED = "FULFILLED",
+  REJECTED = "REJECTED",
+}
