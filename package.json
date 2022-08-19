@@ -2,7 +2,7 @@
   "name": "ice_and_fire",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ILliDan04/ice_and_fire/index.html",
+  "homepage": "https://github.com/ILliDan04/ice_and_fire",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
