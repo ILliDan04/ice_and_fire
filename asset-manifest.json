@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.52391980.js",
-    "static/js/787.40345c35.chunk.js": "/static/js/787.40345c35.chunk.js",
-    "index.html": "/index.html",
-    "main.52391980.js.map": "/static/js/main.52391980.js.map",
-    "787.40345c35.chunk.js.map": "/static/js/787.40345c35.chunk.js.map"
+    "main.js": "/ice_and_fire/static/js/main.e60b1e14.js",
+    "static/js/787.40345c35.chunk.js": "/ice_and_fire/static/js/787.40345c35.chunk.js",
+    "index.html": "/ice_and_fire/index.html",
+    "main.e60b1e14.js.map": "/ice_and_fire/static/js/main.e60b1e14.js.map",
+    "787.40345c35.chunk.js.map": "/ice_and_fire/static/js/787.40345c35.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.52391980.js"
+    "static/js/main.e60b1e14.js"
   ]
 }
