@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ILliDan04/ice_and_fire/static/js/main.518cb1d7.js",
-    "static/js/787.40345c35.chunk.js": "/ILliDan04/ice_and_fire/static/js/787.40345c35.chunk.js",
-    "index.html": "/ILliDan04/ice_and_fire/index.html",
-    "main.518cb1d7.js.map": "/ILliDan04/ice_and_fire/static/js/main.518cb1d7.js.map",
-    "787.40345c35.chunk.js.map": "/ILliDan04/ice_and_fire/static/js/787.40345c35.chunk.js.map"
+    "main.js": "/ILliDan04/ice_and_fire/index.html/static/js/main.e7f86587.js",
+    "static/js/787.40345c35.chunk.js": "/ILliDan04/ice_and_fire/index.html/static/js/787.40345c35.chunk.js",
+    "index.html": "/ILliDan04/ice_and_fire/index.html/index.html",
+    "main.e7f86587.js.map": "/ILliDan04/ice_and_fire/index.html/static/js/main.e7f86587.js.map",
+    "787.40345c35.chunk.js.map": "/ILliDan04/ice_and_fire/index.html/static/js/787.40345c35.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.518cb1d7.js"
+    "static/js/main.e7f86587.js"
   ]
 }
